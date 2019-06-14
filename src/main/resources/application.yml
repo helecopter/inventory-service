@@ -29,7 +29,7 @@ spring:
       probability: 1.0
 
   zipkin:
-    base-url: http://zipkin.team-a.cloud.school.thoughtworks.cn
+    base-url: http://zipkin.team-d.cloud.school.thoughtworks.cn
 
   rabbitmq:
     host: localhost
